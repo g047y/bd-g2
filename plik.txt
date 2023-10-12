@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Hello World 
-linia z fix_001
-=======
-Hello World123 
-linia2
->>>>>>> dev
+Hello world
+test
